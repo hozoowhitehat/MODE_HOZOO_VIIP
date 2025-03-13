@@ -3,7 +3,7 @@
 
 cd
 
-rm -rf HOZOO_MOD_VIIP
+rm -rf MODE_HOZOO_VIIP
 
 git clone https://github.com/hozoowhitehat/MODE_HOZOO_VIIP
 
