@@ -5,9 +5,9 @@ cd
 
 rm -rf HOZOO_MOD_VIIP
 
-git clone https://github.com/hozoowhitehat/HOZOO_MOD_VIIP
+git clone https://github.com/hozoowhitehat/MODE_HOZOO_VIIP
 
-cd HOZOO_MOD_VIIP
+cd MODE_HOZOO_VIIP
 
 # Build the Docker image
 
