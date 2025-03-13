@@ -1,6 +1,9 @@
 # HOZOO_MOD_VIIP
 😈👉📱💻
 
+cd
+
+rm -rf HOZOO_MOD_VIIP
 
 git clone https://github.com/hozoowhitehat/HOZOO_MOD_VIIP
 
